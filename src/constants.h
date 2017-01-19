@@ -32,9 +32,6 @@ const int kMaxExp = 6;
 const int kExpTableSize = 1000;
 const int kSaveBatch = 100000;
 
-int main() {
-	
-}
 
 }
 
